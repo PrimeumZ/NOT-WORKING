@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.nrfaTNGPK3XGcV5wNdXkmwHaFj?w=275&h=206&c=7&r=0&o=5&dpr=1.65&pid=1.7");
+   
+       background-position: center;
+       background-size: cover;
+   }
+   #myCanvas
+   {
+     border-width:10px;
+     background-color: white; 
+     border-style:ridge;
+   }
+   
+   h1,h4
+   {
+     color: #110022 !important;
+   }
+     
+   
